@@ -37,11 +37,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 28
           plugin_people_size: 28
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           plugin_topics: yes
           plugin_topics_sort: mastered
           plugin_topics_limit: 0
