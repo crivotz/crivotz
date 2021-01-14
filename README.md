@@ -1,1 +1,1 @@
-![GitHub metrics](https://metrics.lecoq.io/crivotz)
+![Metrics](https://github.com/crivotz/crivotz/blob/master/github-metrics.svg)
