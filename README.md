@@ -1,4 +1,4 @@
-<h1 align="left">Ciao 👋, I'm Mauro</h1>
+<h1 align="left">Ciao, I'm Mauro 🧗‍♂️</h1>
 <h3 align="left">A passionate Ruby on Rails developer from Italy</h3>
 
 - 👨‍💻 My website at [https://locatelli.dev](https://locatelli.dev)
