@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mauro 🧗‍♂️</h1>
-<h3 align="center">Ruby on Rails specialist from Italy</h3>
+<h1>Hi 👋, I'm Mauro 🧗‍♂️</h1>
+<h3>Ruby on Rails specialist from Italy</h3>
 
 - 👨‍💻 All of my projects are available at [locatelli.dev](locatelli.dev)
 
