@@ -1,8 +1,5 @@
 <h1>Hi 👋, I'm Mauro 🧗‍♂️</h1>
 <h3>Ruby on Rails specialist from Italy</h3>
-
-- 👨‍💻 All of my projects are available at [locatelli.dev](locatelli.dev)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maurolocatelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maurolocatelli" height="30" width="40" /></a>
