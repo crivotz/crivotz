@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro (aka Crivotz) 🧗‍♂️</h1>
-<h3 align="center">Full Stack Developer passionate about Ruby on Rails, Modern JavaScript, C# (Entity Framework), and Cloud Solutions</h3>
+<h3 align="center">Full Stack Developer passionate about Ruby on Rails, Modern JavaScript, C#, and Cloud Solutions</h3>
 
 ---
 
