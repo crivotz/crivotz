@@ -1,5 +1,3 @@
-![crivotz's GitHub Banner](https://raw.githubusercontent.com/crivotz/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Mauro (aka Crivotz) 🧗‍♂️</h1>
 <h3 align="center">Full Stack Developer passionate about Ruby on Rails, Modern JavaScript, C#, and Cloud Solutions</h3>
 
