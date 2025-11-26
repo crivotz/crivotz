@@ -31,6 +31,7 @@
   <a href="https://linkedin.com/in/maurolocatelli" target="_blank">
     Linkedin
   </a>
+  <br>
   <a href="https://stackoverflow.com/users/3037432" target="_blank">
     Stack Overflow
   </a>
