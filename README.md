@@ -5,10 +5,9 @@
 
 🚀 **About Me**
 - 🇮🇹 Based in Italy
-- 💎 Ruby on Rails specialist, focused on elegant, idiomatic code.
+- 💎 Ruby on Rails specialist
 - ⚡️ Proficient in JavaScript, Bootstrap and C#, PHP
-- ☁️ Experienced with all major cloud platforms, mainly **Google Cloud Platform** for flexibility and scalability.
-- 🧑‍💻 Advocate for clean, readable, and robust code.
+- ☁️ Experienced with all major cloud platforms, mainly **Google Cloud Platform** and **AWS**.
 - 🧗‍♂️ **Climbing enthusiast:** I love sport climbing, always chasing the next challenge on the rocks.
 - 🎲 **Role-playing game fan:** Tabletop RPGs are my second passion—strategy, storytelling, and teamwork!
 
