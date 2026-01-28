@@ -6,10 +6,10 @@
 🚀 **About Me**
 - 🇮🇹 Based in Italy
 - 💎 Ruby on Rails specialist
-- ⚡️ Proficient in JavaScript, Bootstrap and C#, PHP
+- ⚡️ Proficient in Ruby, JS, C# and PHP
 - ☁️ Experienced with all major cloud platforms, mainly **Google Cloud Platform** and **AWS**.
-- 🧗‍♂️ **Climbing enthusiast:** I love sport climbing, always chasing the next challenge on the rocks.
-- 🎲 **Role-playing game fan:** Tabletop RPGs are my second passion—strategy, storytelling, and teamwork!
+- 🧗‍♂️ Climbing enthusiast
+- 🎲 Role-playing game fan
 
 ---
 
