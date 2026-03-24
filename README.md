@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mauro (aka Crivotz) 🧗‍♂️</h1>
+<h1 align="center">Mauro (aka Crivotz)</h1>
 <h3 align="center">Full Stack Developer passionate about Ruby on Rails, Modern JavaScript, C#, and Cloud Solutions</h3>
 
 ---
 
-🚀 **About Me**
+**About Me**
 - 🇮🇹 Based in Italy
-- 💎 Ruby on Rails specialist
-- ⚡️ Proficient in Ruby, JS, C# and PHP
-- ☁️ Experienced with all major cloud platforms, mainly **Google Cloud Platform** and **AWS**.
-- 🧗‍♂️ Climbing enthusiast
-- 🎲 Role-playing game fan
+- Ruby on Rails specialist
+- Proficient in Ruby, JS, C# and PHP
+- Experienced with all major cloud platforms, mainly **Google Cloud Platform** and **AWS**.
+- Climbing enthusiast
+- Role-playing game fan
 
 ---
 
-### 🖥️ **Development Environment**
+### **Development Environment**
 
 - **Operating System:** Proud [Debian](https://www.debian.org/) user—stable, reliable, and perfect for development.
 - **Editor:** [Neovim](https://neovim.io/) ([nv-ide config](https://github.com/crivotz/nv-ide)) as my daily driver, tailored for full-stack development.
@@ -25,7 +25,7 @@
 
 ---
 
-📫 **Connect with me**
+**Connect with me**
 <p align="left">
   <a href="https://linkedin.com/in/maurolocatelli" target="_blank">
     Linkedin
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠 **Favorite Stack & Tools**
+### **Favorite Stack & Tools**
 
 - **Backend:**  
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
